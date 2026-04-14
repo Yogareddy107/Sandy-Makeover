@@ -27,9 +27,9 @@ const Contact = () => {
                   <div className="w-10 h-10 rounded-full bg-blush flex items-center justify-center"><Phone className="text-primary" size={18} /></div>
                   +91 9845227642
                 </a>
-                <a href="mailto:s845227642@gmail.com" className="flex items-center gap-4 text-sm hover:text-primary transition-colors">
+                <a href="mailto:sandymakeovers768@gmail.com" className="flex items-center gap-4 text-sm hover:text-primary transition-colors">
                   <div className="w-10 h-10 rounded-full bg-blush flex items-center justify-center"><Mail className="text-primary" size={18} /></div>
-                  s845227642@gmail.com
+                  sandymakeovers768@gmail.com
                 </a>
                 <a href="https://wa.me/919845227642" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-sm hover:text-primary transition-colors">
                   <div className="w-10 h-10 rounded-full bg-blush flex items-center justify-center"><MessageCircle className="text-primary" size={18} /></div>

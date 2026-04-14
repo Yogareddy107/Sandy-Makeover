@@ -33,8 +33,8 @@ const Footer = () => (
             <li className="flex items-center gap-2 text-left leading-relaxed"><MapPin size={16} className="shrink-0" /> 504 yalmavathi homes, KV nagar, Yogimallavaram, Tirupati</li>
             <li className="flex items-center gap-2"><Phone size={16} /> +91 9845227642</li>
             <li className="flex items-center gap-2">
-              <a href="mailto:s845227642@gmail.com" className="hover:text-primary transition-colors flex items-center gap-2">
-                <Mail size={16} /> <span className="text-sm">s845227642@gmail.com</span>
+              <a href="mailto:sandymakeovers768@gmail.com" className="hover:text-primary transition-colors flex items-center gap-2">
+                <Mail size={16} /> <span className="text-sm">sandymakeovers768@gmail.com</span>
               </a>
             </li>
             <li>
